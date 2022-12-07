@@ -41,5 +41,5 @@ jobs:
         tags: latest
         registry: docker.io
         dockerfile: Dockerfile
-        username: Gektors
+        username: gektors
         password: 01072003g
