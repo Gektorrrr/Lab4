@@ -37,9 +37,9 @@ jobs:
     - name: Build & push Docker image
       uses: mr-smithers-excellent/docker-build-push@v5
       with:
-        image: gektors/lab6
+        image: angelinasss/lab_work6
         tags: latest
         registry: docker.io
         dockerfile: Dockerfile
-        username: gektors
-        password: 01072003g
+        username: angelinasss
+        password: 18062003a
